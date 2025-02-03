@@ -1,0 +1,1 @@
+Yo my names Chesco and Im a small web and code dev. I used to make shit like roblox executors but now I mostly focus on coding projects like batch files, python, C-Sharp, and C++ projects like this one. No it isnt a virus or rat or ransomware, literally open source and nothing changed about it. Its in ascii art so you can change it I guess.
